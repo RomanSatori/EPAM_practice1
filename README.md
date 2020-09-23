@@ -1,1 +1,1 @@
-# EPAM_practice1
+# JavaSummerProgram_practice1
